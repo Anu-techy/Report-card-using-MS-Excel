@@ -1,7 +1,7 @@
 # Report-card-using-MS-Excel
 Interactive Report card to track and present the academic performance of students 
 
-**Aim **
+**Aim**
 
 To build an interactive report card for students and parent to analyse academic performance
 
